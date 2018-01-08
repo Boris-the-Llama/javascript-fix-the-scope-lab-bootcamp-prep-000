@@ -28,3 +28,4 @@ var funkyFunction = function() {
 var theFunk = function(daFunk) {
   return daFunk();
 };
+theFunk(funkyFunction);
